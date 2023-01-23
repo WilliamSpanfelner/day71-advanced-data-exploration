@@ -1,3 +1,5 @@
+![Screenshot](day71-advanced-data-exploration.png)
+
 # Data analysis with Python Pandas and Google Colab Notebooks.
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
